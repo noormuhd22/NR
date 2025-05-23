@@ -1,5 +1,7 @@
-@extends('layouts.app')
+@extends('layout.layout')
 
-@section('content')
-Login Successfull
+@section('section')
+<div class="container">
+    Login Successful
+</div>
 @endsection
