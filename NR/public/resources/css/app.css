@@ -1,0 +1,9 @@
+/* login.css */
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-image: url('/resources/img/login-bg.jpg');
+    margin: 0;
+    padding: 0;
+}
+
